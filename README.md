@@ -3,7 +3,7 @@ Typescript
 git config --global user.email smadhulika946@gmail.com
 git config --global user.name madhulika9955
 
-mkdir project
+mkdir senerio1 case
 
 git init 
 touch index.html
@@ -57,7 +57,8 @@ ls
 
 cat index.html
 vi index.html
-git statusgit add .
+git status
+git add .
 git commit -m "commit 3"
 git push -u origin new-changes
 
